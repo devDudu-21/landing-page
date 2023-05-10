@@ -1,6 +1,4 @@
-![GitHub repo size](https://img.shields.io/github/repo-size/DuduDevCode/landing-page?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/DuduDevCode/landing-page?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/DuduDevCode/landing-page?style=for-the-badge)
+
 
 <img src="https://media.discordapp.net/attachments/1049120937053794354/1105846419375529984/Full_Page.png?width=1383&height=676" alt="Page preview">
 
